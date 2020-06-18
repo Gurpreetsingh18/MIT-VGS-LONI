@@ -61,3 +61,7 @@ a:visited{
 .item:hover img{
     opacity:0.33;
 }
+
+h3{
+    margin-top:200px;
+}
